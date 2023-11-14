@@ -61,7 +61,7 @@ export class HostCache {
   private readonly projectReg = "([-a-zA-Z0-9]{0,62})";
   private readonly envReg = "([a-zA-Z0-9]{0,62})";
   private readonly deployIdReg = "([0-9]{0,62})";
-  private readonly domainSuffix: string = ".pubfree.jd.com";
+  private readonly domainSuffix: string = ".free.freemanzhao.top";
   private readonly domainSplitChar: string = ".";
 
   private readonly HostNormalRegex: RegExp;
